@@ -35,7 +35,7 @@ PASSWORD_DB=
 ```
 ## 4. Run Application
 * clone this project
-* import file pintap.sql to database
+* import file `pintap.sql` to database
 * make file config on `.env`
 * Input Environment Properties to .env
 * run  go run main.go
